@@ -1,7 +1,7 @@
 # Semantic Boundary Discrimintation NetWorks(SBDNet)
 This project will release the semi-automatic annotation tools for curve text detection. The backend of the tools is the algorithm proposed in our paper:
 > Toward more efficient annotation algorithm for Text Detection via semantic Boundary Discrimination  
-> authors(e.g. Shiyin Zhang, Jun Hao Liew, Yunchao Wei, Shikui Wei, Yao Zhao)
+> authors
 
 The tool will be released soon. Please stay tuned.
 
@@ -88,10 +88,6 @@ Here are some visualization of our tool. The binary file of our tool will be rel
 ### Citations
 Please consider citing our papers in your publications if it helps your research. The following is a BibTeX reference.
 
-    <!-- @inproceedings{zhang2020interactive,
-      title={Interactive Object Segmentation With Inside-Outside Guidance},
-      author={Zhang, Shiyin and Liew, Jun Hao and Wei, Yunchao and Wei, Shikui and Zhao, Yao},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      pages={12234--12244},
-      year={2020}
-    } -->
+    @inproceedings{zhang2020interactive,
+      title={Toward more efficient annotation algorithm for Text Detection via semantic Boundary Discrimination},
+    }
