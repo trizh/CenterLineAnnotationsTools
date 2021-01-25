@@ -86,8 +86,4 @@ Here are some visualization of our tool. The binary file of our tool will be rel
 
 
 ### Citations
-Please consider citing our papers in your publications if it helps your research. The following is a BibTeX reference.
-
-    @inproceedings{zhang2020interactive,
-      title={Toward more efficient annotation algorithm for Text Detection via semantic Boundary Discrimination},
-    }
+Please consider citing our papers in your publications if it helps your research. 
