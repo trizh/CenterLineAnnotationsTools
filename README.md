@@ -10,8 +10,8 @@ The tool will be released soon. Please stay tuned.
 ### Abstract
 This tool help to harvest precise curve text location, with minimized the human interaction cost. To achieve this, we propose the Semantic Boundary Discrimintation NetWorks(SBDNet) approach in this work. The SBDNet model takes the text center line, which is easier to annotate, as input, and produces text region of high quality automatically. 
 
-The tool developed from the manual tool in [CTW1500 link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). And Our tool has three annotating modes:
-* Polygon mode: Manual annotation mode the same as [CTW1500 link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data).
+The tool developed from the manual tool in [link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). And Our tool has three annotating modes:
+* Polygon mode: Manual annotation mode the same as [link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data).
 * Center-Line Mode with Transcriptions: Users need annotating the text center line and the text content for every text instance. And the SBDNet will produce the region of high by using the semantic in text content.
 * Center-Line Mode without Transcriptions: Users need only annotating the text center line for every text instance. And the SBDNet will produce the region of high quality by using the estimated semantic.
 
