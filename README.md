@@ -88,10 +88,10 @@ Here are some visualization of our tool. The binary file of our tool will be rel
 ### Citations
 Please consider citing our papers in your publications if it helps your research. The following is a BibTeX reference.
 
-    @inproceedings{zhang2020interactive,
+    <!-- @inproceedings{zhang2020interactive,
       title={Interactive Object Segmentation With Inside-Outside Guidance},
       author={Zhang, Shiyin and Liew, Jun Hao and Wei, Yunchao and Wei, Shikui and Zhao, Yao},
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
       pages={12234--12244},
       year={2020}
-    }
+    } -->
