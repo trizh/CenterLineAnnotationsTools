@@ -1,8 +1,7 @@
 # Semantic Boundary Estimation(SBE)
 
 This project will release the semi-automatic annotation tools for curve text detection. The backend of the tools is the algorithm proposed in our paper:
-> Toward more efficient annotation algorithm for Text Detection via semantic Boundary Discrimination  
-> authors
+> A New Semi-Automatic Annotation Model via Semantic Boundary Estimation for Scene Text Detection  
 
 The tool will be released soon. Please stay tuned.
 
