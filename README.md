@@ -16,9 +16,9 @@ Manually annotating a data set for scene text detection is extremely time consum
 ### about tools
 
 The tool developed from the manual tool in [link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). And Our tool has three annotating modes:
-* Polygon mode: Manual annotation mode the same as [link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data).
-* Center-Line Mode with Transcriptions: Users need annotating the text center line and the text content for every text instance. And the SBDNet will produce the region of high by using the semantic in text content.
-* Center-Line Mode without Transcriptions: Users need only annotating the text center line for every text instance. And the SBDNet will produce the region of high quality by using the estimated semantic.
+* Polygon mode: Manual annotation mode the same as [link](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). User needs to annotate all vetice of the polygonal outline.
+* Center-Line Mode with Transcriptions: Users need annotating the text center line and the text content for every text instance. And the SBE will produce the region of high by using the semantic in text content.
+* Center-Line Mode without Transcriptions: Users need only annotating the text center line for every text instance. And the SBE will produce the region of high quality by using the estimated semantic.
 
 ## Visualization
 
