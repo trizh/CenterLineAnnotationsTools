@@ -16,8 +16,8 @@ Manually annotating a data set for scene text detection is extremely time-consum
 ### about tools
 
 The demo annotation tool is developed from the manual tool in [Liu](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). And the tool has three annotating modes:
-* Polygon mode: Manual annotation mode the same as [Liu](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). User needs to annotate all vetice of the polygonal outline.
-* Center-Line Mode with Transcriptions: Users need annotating the text center line and the text content for every text instance. And the SBE will produce the region of high by using the semantic in text content.
+* Polygon mode: Manual annotation mode is the same as [Liu](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data). User needs to annotate all vetice of the polygonal outline.
+* Center-Line Mode with Transcriptions: Users need annotating the text center line and the text content for every text instance. And the SBE will produce the region of high quality by using the semantic in text content.
 * Center-Line Mode without Transcriptions: Users need only annotating the text center line for every text instance. And the SBE will produce the region of high quality by using the estimated semantic.
 
 We will eventually develop our tool based on the [Coco-Annotator](https://github.com/jsbroks/coco-annotator).
